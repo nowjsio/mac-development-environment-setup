@@ -1,0 +1,6 @@
+1. open intellij.app
+2. File -> Manage idea settings -> import settings 
+3. Apply ./settings.zip
+4. finish
+
+# intellij path settings manually: open idea -> Tools -> Create Command-line launcher 
