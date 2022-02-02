@@ -6,4 +6,5 @@
 3. ./install.sh
 
 # notice
+ * in certain cases, you need to enter password to your current terminal.
  * 'intellij' must be intalled manually, after reading the **"./intellij/install.txt"**
