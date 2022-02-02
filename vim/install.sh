@@ -4,4 +4,4 @@
 cp -r ./.vim/. ~/.vim/
 
 # apply .vimrc
-cp ./.vimrc ~/.vim
+cp ./.vimrc ~/.
